@@ -23,7 +23,7 @@ Welcome to the Wi-Fi Jammer Tool! This powerful bash script simplifies the proce
 Clone the Repository:
 
 ```bash
-git clone https://github.com/yourusername/wifi_jammer_tool.git
+git clone [https://github.com/yourusername/wifi_jammer_tool.git](https://github.com/thebugbounter/WiFi-Deauthenticator/)
 cd wifi_jammer_tool
 ```
 
